@@ -1,0 +1,74 @@
+body {margin: 0;
+background-color: lightblue;}
+
+h1 {
+    margin-top: 0px;
+}
+
+hr {border-style: none;
+    border-top-style: dotted;
+    border-color: #ea0000;
+    border-width: 5px;
+    width: 5%;}
+
+
+.top_container {background-color: rgb(2, 235, 252);
+height: 200px;
+width: 200px;
+position: relative;
+left: 200px;
+border-radius: 100px;}
+
+.middle_container {background-color: rgb(2, 235, 252);
+height: 205px;
+width: 205px;
+position: relative; left: 1100px;
+border-radius: 100px;
+}
+
+.bottom_container {background-color: rgb(2, 235, 252);
+height: 200px;
+width: 200px;
+position: relative;left: 200px;
+border-radius: 100px;}
+
+
+.cloud1 {position: relative;
+left: 300px;}
+
+.cloud2 {position: relative;
+left: 700px;}
+
+.cloud3 {position: relative;
+top: 300px;
+left: 30px;}
+
+.cloud4 {position: relative;
+right: 700px}
+
+.heading {position: relative;
+left: 420px;
+font-family: cursive;
+font-size: 50px;}
+
+.heading-bio {position: relative;
+left: 450px;
+font-family: cursive;
+}
+
+.mountain {position: relative;
+left: 80px;
+width: 1000px;}
+
+.p1 {position: relative;
+left: 25px;
+bottom: 30px;}
+
+.bottom-p {position: relative;
+top: 20px;
+left: 10px;}
+
+.p0 {position: relative;
+left: 30px;
+bottom: 110px;}
+
